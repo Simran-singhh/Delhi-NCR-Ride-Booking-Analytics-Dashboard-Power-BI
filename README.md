@@ -1,0 +1,2 @@
+# Delhi-NCR-Ride-Booking-Analytics-Dashboard-Power-BI
+Developed an interactive Power BI dashboard to analyze ride-booking performance across Delhi NCR, with focus on demand, booking value, cancellation behavior, ride completion, and operational efficiency. The dashboard enables users to dynamically filter performance by month, vehicle type, &amp; cancellation/incomplete-ride reasons &amp; identify bottlenecks
